@@ -10,7 +10,7 @@ PHP , Html , Css , SQL
 الملفات المدمجة هي :
 1- Holy_Quran.sql
 هذا الملف يجب تركيبه في قاعدة البيانات
-2- Ayah.php
+2- Index.php
 هذا هو الصفحة الرئيسية
 3- configuration.php
 هذا ملف الاتصال بقاعدة البيانات
