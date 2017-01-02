@@ -4,7 +4,6 @@
 #							 Amr Elkhenany								#
 #########################################################################
 $ayah		=		@$_POST['ayah'];
-require		"configuration.php";
 ?>
 <head>
 	<title>آية</title>
