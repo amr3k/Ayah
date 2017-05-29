@@ -1,0 +1,25 @@
+@font-face {
+            font-family: othmani ; 
+            src: url('../fonts/UthmanicHafs.otf');
+}
+body{
+    margin-top: 10%;
+    text-align:center ;
+    background-color: #005F5B;
+    /*
+    background-image: url('../img/bg.jpeg');
+    background-size:100% auto;
+    background-attachment: fixed;
+    */
+}
+button{
+        font-family:	othmani;
+}
+#ayah{
+	height:		20% ;
+	padding:	10px ;
+	font-family:    othmani;
+	color:		White ;
+	text-shadow:	0px 0px 1px White;
+	font-size:	2.5em;
+}
