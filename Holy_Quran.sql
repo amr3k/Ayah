@@ -1,4 +1,3 @@
-CREATE TABLE Quran (id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, othmani TEXT, imlai TEXT);
 INSERT INTO `Quran`(`id`,`imlai`) VALUES(1,'بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ');
 INSERT INTO `Quran`(`id`,`imlai`) VALUES(2,'الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ');
 INSERT INTO `Quran`(`id`,`imlai`) VALUES(3,'الرَّحْمَنِ الرَّحِيمِ');
